@@ -76,10 +76,6 @@
 .twelve{
     grid-column: 1 / 6;
     grid-row: 10 / 11;
-    width: 980px;
-    height: 146px;
-    left: 0px;
-    top: 754px;
     background: #9BC1BC;
     font-family: 'Helvetica Neue';
     font-style: normal;
